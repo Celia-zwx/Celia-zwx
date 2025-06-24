@@ -6,7 +6,7 @@
 
 Welcome to my GitHub page! I'm Wenxi, a Master's student in Computer Science at **Georgia Tech**, passionate about full-stack development, data-driven applications, and scalable system design.
 
-<img align="right" alt="img" src="WechatIMG1324.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="WechatIMG1325.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I’m currently working on:
 - Completing my M.S. in Computer Science @ Georgia Tech (Graduating Jun 2026)
