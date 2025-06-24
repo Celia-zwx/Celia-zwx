@@ -38,4 +38,4 @@ Welcome to my GitHub page! I'm Wenxi, a Master's student in Computer Science at 
 </p>
 
 <sub>Credits to:  
-[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [cover image](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
+[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [cover image](WechatIMG1324.jpg)</sub>
