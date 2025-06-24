@@ -9,10 +9,10 @@ Welcome to my GitHub page! I'm Wenxi, a Master's student in Computer Science at 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I’m currently working on:
-- Completing my M.S. in Computer Science @ Georgia Tech (Graduating Dec 2025)
-- Building scalable backend systems using Python, Redis, and cloud services
+- Completing my M.S. in Computer Science @ Georgia Tech (Graduating Jun 2026)
+- Building scalable backend systems using Python, Java, Redis, and cloud services
 - Improving Korean language skills 🇰🇷
-- Contributing to side projects in ML and data visualization (D3.js, React)
+- Contributing to side projects in LLM, RAG (Langchain, TypeScript, Next.JS), Instant Messagin APP (Java, AWS, MySQL, microservice, Kafka)
 
 #### 💪 Personal goals:
 - Stay consistent with daily coding & problem solving
