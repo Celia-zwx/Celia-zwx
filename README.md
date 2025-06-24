@@ -6,7 +6,7 @@
 
 Welcome to my GitHub page! I'm Wenxi, a Master's student in Computer Science at **Georgia Tech**, passionate about full-stack development, data-driven applications, and scalable system design.
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="WechatIMG1324.jpg" width="50%" height="auto" />
 
 #### 🌱 Things I’m currently working on:
 - Completing my M.S. in Computer Science @ Georgia Tech (Graduating Jun 2026)
@@ -37,5 +37,4 @@ Welcome to my GitHub page! I'm Wenxi, a Master's student in Computer Science at 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-<sub>Credits to:  
-[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderful [cover image](WechatIMG1324.jpg)</sub>
+
