@@ -12,7 +12,7 @@ Welcome to my GitHub page! I'm Wenxi, a Master's student in Computer Science at 
 - Completing my M.S. in Computer Science @ Georgia Tech (Graduating Jun 2026)
 - Building scalable backend systems using Python, Java, Redis, and cloud services
 - Improving Korean language skills 🇰🇷
-- Contributing to side projects in LLM, RAG (Langchain, TypeScript, Next.JS), Instant Messagin APP (Java, AWS, MySQL, microservice, Kafka)
+-  - [AI-Chatbot-RAG](https://github.com/Celia-zwx/AI-Chatbot-RAG): A LangChain-based chatbot for document Q&A, Instant Messagin APP (Java, AWS, MySQL, microservice, Kafka)
 
 #### 💪 Personal goals:
 - Stay consistent with daily coding & problem solving
